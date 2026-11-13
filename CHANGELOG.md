@@ -1,4 +1,8 @@
 ## 2.3.2 (unreleased)
+- add compatibility with boneos 6.1
+- update nlohmann/json library to v3.12.0 (https://github.com/nlohmann/json/releases/tag/v3.12.0)
+- update fmt library to v12.1.0 (https://github.com/fmtlib/fmt/releases/tag/12.1.0)
+- update spdlog library to v1.17.0 (https://github.com/gabime/spdlog/releases/tag/v1.17.0)
 
 ## 2.3.1 (11.03.2026)
 - allow to specify type of external data registers
