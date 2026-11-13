@@ -1,3 +1,5 @@
+## 2.3.3 (unreleased)
+
 ## 2.3.2 (13.11.2026)
 - add compatibility with boneos 6.1
 - update nlohmann/json library to v3.12.0 (https://github.com/nlohmann/json/releases/tag/v3.12.0)
